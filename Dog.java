@@ -1,7 +1,7 @@
 package EncapsDog;
 
 public class Dog {
-// 20200628 test comment
+// 20200628 test comment2
 
     private String name;
     private Integer age;
