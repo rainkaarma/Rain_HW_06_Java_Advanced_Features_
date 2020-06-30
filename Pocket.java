@@ -1,5 +1,5 @@
 package EncapsPocket;
-// learning Git 20200629_3
+// learning Git 20200630
 public class Pocket {
     private double money;
 
